@@ -11,6 +11,7 @@ Group Members:
 
 # Description:
 This project involved data analysis and classification using the Adult Dataset from the UCI Machine Learning Repository. The objective is to predict whether an individual's income exceeds $50,000 based on various demographic and work-related attributes.  
+
 The dataset contains approximately 48,000 observations and 14 features for a sample of the US population of adults. The demographic attributes in this dataset include age, educational attainment, and occupation, while financial variables pertain to capital gains/losses and hours worked per week. 
 
 # Requirements:
