@@ -20,10 +20,10 @@ ucimlrepo, pandas, numpy, seaborn, matplotlib, scikit-learn, scipy, xgboost, uma
 # Loading the data:
 The dataset can be loaded using the following:
 
-from ucimlrepo import fetch_ucirepo 
-adult = fetch_ucirepo(id=2) 
-X = adult.data.features 
-y = adult.data.targets 
+from ucimlrepo import fetch_ucirepo  
+adult = fetch_ucirepo(id=2)  
+X = adult.data.features  
+y = adult.data.targets  
 
 The dataset is also available in this repository in case the above method does not work.
 
