@@ -31,7 +31,11 @@ The dataset is also available in this repository in case the above method does n
 Python 3 is required to run the code.
 
 i. RandomForest.ipynb: Data analysis including Correlation Matrix, Independence Between Feature, PCA, t-SNE, UMAP along with Random Forest Classifier implementation  
+
 ii. Gradient_Boosting.ipynb: Train XGBoost model with hyperparameter tuning using GridSearch and find importance of features  
+
 iii. Hierarchical_clustering.ipynb: Unsupervised learning using hierarchical clustering to find clusters  
+
 iv. Kmeans_clustering.ipynb: Implements KMeans clustering using the elbow and silouette method to find the optimal number of clusters  
+
 v. Neural_Network.ipynb: Implements Neural Network model with dropout and early stopping to avoid overfitting. 
