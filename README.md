@@ -62,7 +62,11 @@ Click on the play button (▶) beside each cell to execute it.
 
 # Description for Each File
 1. RandomForest.ipynb: Data Analysis, Correlation between Features, Feature Impact on Target, Independence Assumptions, PCA, t-SNE, UMAP, Random Forest Classifier Implementation with K-Fold Cross Validation and Hyperparameter Tuning
+
 2. Gradient_Boosting.ipynb: Train XGBoost model with hyperparameter tuning using GridSearch and find importance of features
+
 3. Hierarchical_clustering.ipynb: Unsupervised learning using hierarchical clustering to find clusters
+
 4. Kmeans_clustering.ipynb: Implements KMeans clustering using the elbow and silouette method to find the optimal number of clusters
+
 5. Neural_Network.ipynb: Implements Neural Network model with dropout and early stopping to avoid overfitting. 
